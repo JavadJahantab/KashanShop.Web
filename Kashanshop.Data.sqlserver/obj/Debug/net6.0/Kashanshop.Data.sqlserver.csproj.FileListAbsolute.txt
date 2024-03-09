@@ -1,0 +1,17 @@
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.csproj.AssemblyReference.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.AssemblyInfoInputs.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.AssemblyInfo.cs
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.csproj.CoreCompileInputs.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\bin\Debug\net6.0\Kashanshop.Data.sqlserver.deps.json
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\bin\Debug\net6.0\Kashanshop.Data.sqlserver.runtimeconfig.json
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\bin\Debug\net6.0\Kashanshop.Data.sqlserver.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\bin\Debug\net6.0\Kashanshop.Data.sqlserver.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\bin\Debug\net6.0\Kashanshop.Domain.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\bin\Debug\net6.0\Kashanshop.Domain.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.csproj.CopyComplete
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\refint\Kashanshop.Data.sqlserver.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\Kashanshop.Data.sqlserver.genruntimeconfig.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Data.sqlserver\obj\Debug\net6.0\ref\Kashanshop.Data.sqlserver.dll

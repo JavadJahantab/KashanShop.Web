@@ -1,0 +1,17 @@
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\bin\Debug\net6.0\Kashanshop.sqlserver.deps.json
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\bin\Debug\net6.0\Kashanshop.sqlserver.runtimeconfig.json
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\bin\Debug\net6.0\Kashanshop.sqlserver.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\bin\Debug\net6.0\Kashanshop.sqlserver.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\bin\Debug\net6.0\Kashanshop.Domain.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\bin\Debug\net6.0\Kashanshop.Domain.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.csproj.AssemblyReference.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.AssemblyInfoInputs.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.AssemblyInfo.cs
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.csproj.CoreCompileInputs.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.csproj.CopyComplete
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\refint\Kashanshop.sqlserver.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\Kashanshop.sqlserver.genruntimeconfig.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.sqlserver\obj\Debug\net6.0\ref\Kashanshop.sqlserver.dll

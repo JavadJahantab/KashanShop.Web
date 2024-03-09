@@ -1,0 +1,14 @@
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\bin\Debug\net6.0\Kashanshop.Domain.deps.json
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\bin\Debug\net6.0\Kashanshop.Domain.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\bin\Debug\net6.0\Kashanshop.Domain.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.csproj.AssemblyReference.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.AssemblyInfoInputs.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.AssemblyInfo.cs
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\refint\Kashanshop.Domain.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.pdb
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\ref\Kashanshop.Domain.dll
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\bin\Debug\net6.0\Kashanshop.Domain.runtimeconfig.json
+C:\Users\javad\RiderProjects\Kashanshop.Web\Kashanshop.Domain\obj\Debug\net6.0\Kashanshop.Domain.genruntimeconfig.cache
